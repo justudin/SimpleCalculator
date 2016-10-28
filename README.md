@@ -1,17 +1,21 @@
-#Simple Calculator for Android
+Simple Calculator for Android
+=========================
 
 This scripts was written for android.
 
-# Screenshot
+How to use?
+-----------
+Just open with Eclicpse and Compile it!:
 
+Screenshot
+-----------
 ![screenshoot_simpleCalculator.jpg](screenshoot_simpleCalculator.jpg)
 
-# Note:
+License
+--------
+Free and Open Source, Feel free to use and modified it.
 
-You can freely use or reuse this script.
-
-Hope it might be useful.
-
-Thank you.
-
+Contact
+-------
+You can contact me via:
 [justudin](http://justudin.com)

@@ -6,7 +6,7 @@ This scripts was written for android.
 
 ![screenshoot_simpleCalculator.jpg](screenshoot_simpleCalculator.jpg)
 
-#### Note:
+# Note:
 
 You can freely use or reuse this script.
 
